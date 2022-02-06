@@ -1,0 +1,3 @@
+awal mula berkas lima
+tadinya "baris awal berkas lima" di lokal, sekarang jadi baris kedua
+
